@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -11,10 +11,9 @@
 
 ## Overview
 
-### Screenshots
+### Screenshot
 
-![](./images/screenshot-desktop.png)
-![](./images/screenshot-mobile.png)
+![](./images/screenshot.png)
 
 ### Links
 
